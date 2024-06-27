@@ -1,0 +1,41 @@
+body,
+html {
+    width: 100%;
+    height: 100%;
+}
+
+body{
+    padding-top:100px;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
+.down-body{
+    background-color: red;
+    display: flex;
+    flex-wrap: wrap;
+    
+ 
+ 
+ }
+ .table{
+  
+    width: 1300px;
+    margin-left: 255px;
+ }
+ .active a{
+    color: red;
+    
+    width: 20px;
+
+
+
+ }
+ .sectable{
+    
+    margin-left: 0;
+  
+ }
+ .contact-form{
+  
+   margin-left: 50px;
+ }
